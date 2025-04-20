@@ -4,3 +4,25 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+.btn {
+  position: absolute;
+  padding: 8px 12px;
+  background-color: #9370DB;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transform: translate(-50%, -50%);
+}
+.btn-1 {
+  top: 50%;
+  left: 14%;
+}
+.btn-2 {
+  top: 24%;
+  left: 50%;
+}
+.btn-3 {
+  top: 65%;
+  left: 87%;
+}
