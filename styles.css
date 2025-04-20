@@ -15,14 +15,14 @@ body{
   transform: translate(-50%, -50%);
 }
 .btn-1 {
-  top: 50%;
-  left: 14%;
+  top: 10%;
+  left: 35%;
 }
 .btn-2 {
-  top: 24%;
-  left: 50%;
+  top: 25%;
+  left: 75%;
 }
 .btn-3 {
-  top: 65%;
-  left: 87%;
+  top: 50%;
+  left: 90%;
 }
